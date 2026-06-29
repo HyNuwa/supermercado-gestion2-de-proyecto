@@ -67,7 +67,7 @@ export function CalendarSection() {
               <div className="flex items-start gap-3">
                 <Info className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
                 <div className="text-xs leading-relaxed text-muted-foreground">
-                  <span className="font-semibold text-foreground">Duración total estimada:</span> 10 meses de desarrollo activo.
+                  <span className="font-semibold text-foreground">Duración total estimada:</span> 12 meses de desarrollo activo.
                   <br />
                   <span className="font-semibold text-foreground">Equivalencias:</span> 1 mes = 4 semanas | 12 meses = 48 semanas.
                 </div>
