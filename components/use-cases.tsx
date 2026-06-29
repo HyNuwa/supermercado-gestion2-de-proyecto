@@ -39,7 +39,6 @@ export function UseCases() {
   const actors = [
     { name: 'Cliente', desc: 'Inicia el proceso de compra, realiza el pago y recibe los productos.', icon: Users },
     { name: 'Cajero', desc: 'Registra los productos, gestiona el cobro e imprime facturas y reportes de caja.', icon: User },
-    { name: 'Producto', desc: 'Entidad que representa los bienes que se comercializan en el punto de venta.', icon: Package },
     { name: 'Supervisor', desc: 'Autoriza cancelaciones y anulaciones de ventas en los puntos de cobro.', icon: UserCheck },
     { name: 'Entidad bancaria', desc: 'Procesa y valida las transacciones electrónicas de pago con tarjeta.', icon: Landmark },
     { name: 'Usuario', desc: 'Perfil general con credenciales para acceder y operar el sistema.', icon: UserCog },
